@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Council",
+  "description": "An advanced multi-agent deliberation system where diverse AI personas debate your query, critique each other, and a Chairman synthesizes a final verdict using Google Gemini models.",
+  "requestFramePermissions": []
+}
